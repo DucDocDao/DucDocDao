@@ -8,6 +8,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <h3>Languages and Tools 🛠️</h3>
+## Languages and Tools 🛠️
 
-
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,github,windows,ubuntu,vscode" />
+  </p>
+          
