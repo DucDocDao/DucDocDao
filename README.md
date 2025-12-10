@@ -21,6 +21,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Quartus%20II-1C79B3?style=flat&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?style=flat&logo=Code%3A%3ABlocks&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-05599C?style=flat&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/RISC-V-283272?logo=RISC-V&labelColor=gray&color=gray">
 </p>
 
 
