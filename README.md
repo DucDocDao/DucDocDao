@@ -15,7 +15,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Github-181717?style=flat&logo=github">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Proteus-1C79B3?style=flat&logo=Proteus&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Quartus%20II-1C79B3?style=flat&logoColor=white">
