@@ -11,13 +11,11 @@
 <h3>Languages and Tools 🛠️</h3>
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-05599C?style=flat&logo=C%2B%2B&logoColor=white&labelColor=blue&color=blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white&labelColor=blue&color=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Github-181717?style=flat&logo=github">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Proteus-1C79B3?style=flat&logo=Proteus&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Quartus%20II-1C79B3?style=flat&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?style=flat&logo=Code%3A%3ABlocks&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/LTSpice-brightgreen?style=flat&logo=LTspice&color=%23900028">
 <img alt="Static Badge" src="https://img.shields.io/badge/YOLO-%23111F68?style=flat&logo=YOLO">
 <img alt="Static Badge" src="https://img.shields.io/badge/MediaPipe-%230097A7?style=flat&logo=MediaPipe&labelColor=green&color=green">
