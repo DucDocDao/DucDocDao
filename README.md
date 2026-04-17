@@ -17,7 +17,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Proteus-1C79B3?style=flat&logo=Proteus&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Quartus%20II-1C79B3?style=flat&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/LTSpice-brightgreen?style=flat&logo=LTspice&color=%23900028">
-<img alt="Static Badge" src="https://img.shields.io/badge/YOLO-%23111F68?style=flat&logo=YOLO">
 <img alt="Static Badge" src="https://img.shields.io/badge/MediaPipe-%230097A7?style=flat&logo=MediaPipe&labelColor=green&color=green">
 <img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat&logo=OpenCV">
 <img alt="Static Badge" src="https://img.shields.io/badge/Keil-%23394049?style=flat&logo=Arm%20Keil">
