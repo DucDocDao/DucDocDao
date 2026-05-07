@@ -21,6 +21,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Keil-%23394049?style=flat&logo=Arm%20Keil">
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DucDocDao&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 
