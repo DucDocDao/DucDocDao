@@ -1,4 +1,16 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DucDocDao&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/5693bfb7-3392-4003-9489-184096359e34" 
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DucDocDao&theme=tokyonight" 
+    width="100%"
+  />
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
