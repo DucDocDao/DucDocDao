@@ -1,14 +1,9 @@
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/5693bfb7-3392-4003-9489-184096359e34" 
-    width="100%"
-  />
-</p>
+
 
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=DucDocDao&theme=tokyonight" 
-    width="100%"
+    width="75%"
   />
 </p>
 
@@ -36,7 +31,13 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/LaTeX-%23008080?logo=LaTex">
 </p>
 
-
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/5693bfb7-3392-4003-9489-184096359e34"
+    width="1000"
+    height="300"
+  />
+</p>
 
 
 
